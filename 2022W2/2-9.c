@@ -1,4 +1,4 @@
-//https://www.acwing.com/activity/content/582/
+//https://www.acwing.com/blog/content/26749/
 #include <stdio.h>
 #define PI 3.14159
 int main()
